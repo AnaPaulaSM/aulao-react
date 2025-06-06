@@ -12,6 +12,7 @@ Tailwind
 
 Vite (para build e desenvolvimento)
 
+
 📋 Funcionalidades:
 
 Adicionar novas tarefas
@@ -27,25 +28,27 @@ O objetivo principal foi colocar em prática conceitos fundamentais do React.
 
 💻 Como rodar o projeto:
 
-# Clone o repositório
+ Clone o repositório
 git clone https://github.com/AnaPaulaSM/aulao-react.git
 
-# Acesse o diretório
+ Acesse o diretório
 cd aulao-react
 
-# Instale as dependências
+ Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+ Inicie o servidor de desenvolvimento
 npm run dev
 
 Abra seu navegador em http://localhost:5173 para visualizar o app.
+
 
 🌐 Deploy
 
 Você pode testar a aplicação diretamente no navegador através do Vercel:
 
 👉 aulao-react-lista-de-tarefas.vercel.app
+
 
 📌 Observações
 
