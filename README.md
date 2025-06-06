@@ -47,7 +47,7 @@ Abra seu navegador em http://localhost:5173 para visualizar o app.
 
 Você pode testar a aplicação diretamente no navegador através do Vercel:
 
-👉 aulao-react-lista-de-tarefas.vercel.app
+👉 https://aulao-react-lista-de-tarefas.vercel.app/
 
 
 📌 Observações
